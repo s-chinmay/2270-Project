@@ -29,4 +29,5 @@ For example,
 dictionary loaded!
 type a prefix (or 'exit' to quit):
 > umbrella
-suggestions: umbrella umbrellaed umbrellaing umbrellaless umbrellalike umbrellas umbrellawise umbrellawort 
+suggestions: umbrella umbrellaed umbrellaing umbrellaless umbrellalike umbrellas umbrellawise umbrellawort
+
